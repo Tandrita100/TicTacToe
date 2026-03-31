@@ -19,9 +19,9 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 2) Player 2 plays with ⭕
 
-3)Take turns to mark the grid
+3) Take turns to mark the grid
 
-4)First to get 3 in a row wins
+4) First to get 3 in a row wins
 
 # 📌 Note
 
