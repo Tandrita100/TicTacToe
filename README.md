@@ -23,6 +23,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 4) First to get 3 in a row wins
 
-## 📌 Note
+# 📌 Note
 
 This is a basic implementation for learning and practice purposes.
